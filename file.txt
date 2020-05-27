@@ -1,0 +1,4 @@
+Game bluetooth mous price * = 2.8$ coins = 386.4 cristal = 257.6
+bluetooth eirpods price * = 10.0$ coins = 1380.0 cristal = 920.0
+USB hub 3.0 price * = 4.2$ coins = 579.6 cristal = 386.40000000000003
+usb hub 2.0 price * = 2.5$ coins = 345.0 cristal = 230.0
